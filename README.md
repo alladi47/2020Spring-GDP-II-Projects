@@ -8,7 +8,7 @@ Please include your final project presentation in your project repository.
 
 ### Step-2:
 Fill and submit the Google form by clicking on link below.  
-[GDP-Projects](https://docs.google.com/forms/d/e/1FAIpQLSdh5fvaYHy0B5aS-x5pzRU_W5cOrrh01vXZE6FBt1A18e-9PA/viewform)
+[Graduate Directed Projects](https://docs.google.com/forms/d/e/1FAIpQLSdh5fvaYHy0B5aS-x5pzRU_W5cOrrh01vXZE6FBt1A18e-9PA/viewform)
 
 ### Step-3:
 * After submitting the Google form, please notify to the MS-ACS office at [msacs@nwmissouri.edu].
