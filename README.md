@@ -17,6 +17,6 @@ Fill and submit the Google form by clicking on link below.
 * The MS-ACS office will download your repository and upload the project to our(Spring2020-GDP-II-Projects) repository.
 
 ### Step-4:
-Once the MS-ACS office has uploaded your project to this repository, they would reply to your email. Please take that email as a confirmation and submit your "Project Completion Form" to Dr. Ajay Bandi.
+Once the MS-ACS office has uploaded your project to this repository, they would reply to your email. Please Consider that email as a confirmation and submit your "Project Completion Form" to Dr. Ajay Bandi.
 
 ## Please send an email to msacs@nwmissouri.edu or contact Dr. Ajay Bandi at ajay@nwmissouri.edu for any queries.
