@@ -4,7 +4,7 @@ This repository consists of all the GDP-II project submissions of Spring-2020, b
 ## Please follow the below steps to have your project uploaded to this repository by MS-ACS office.  
 
 ### Step-1:
-Please include your final project presentation in your project repository.
+Include your final project presentation in your project repository.
 
 ### Step-2:
 Fill and submit the Google form by clicking on link below.  
