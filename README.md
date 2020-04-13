@@ -22,7 +22,7 @@ Fill and submit the Google form by clicking on link below.
 
 ### Step-4:
 
-The MS-ACS office staff will download your repository and upload the project to our(Spring2020-GDP-II-Projects) repository.
+The MS-ACS office staff will download your repository and upload the project to our (Spring2020-GDP-II-Projects) repository.
 
 ### Step-5:
 Once the MS-ACS office staff has uploaded your project to this repository, they would reply to your email. Please consider that email as a confirmation and submit your "Project Completion Form" with all the signatures to Dr. Ajay Bandi through an email.
