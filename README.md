@@ -11,14 +11,14 @@ Fill and submit the Google form by clicking on link below.
 [Graduate Directed Projects](https://docs.google.com/forms/d/e/1FAIpQLSdh5fvaYHy0B5aS-x5pzRU_W5cOrrh01vXZE6FBt1A18e-9PA/viewform)
 
 ### Step-3:
-*Please notify the MS-ACS office after submitting this form.
+* Please notify the MS-ACS office after submitting this form.
 
-*Send an email to MSACS@nwmissouri.edu
-*Copy all of your team members and Dr. Ajay Bandi in the email
-*Subject: TeamName-TitleOfProject
-*Body: Mention the section number and any other details of the project you feel that are necessary.
-*Link to repository: Your repository link
-*Insert your signature
+* Send an email to MSACS@nwmissouri.edu
+* Copy all of your team members and Dr. Ajay Bandi in the email
+* Subject: TeamName-TitleOfProject
+* Body: Mention the section number and any other details of the project you feel that are necessary.
+* Link to repository: Your repository link
+* Insert your signature
 
 
 * The MS-ACS office will download your repository and upload the project to our(Spring2020-GDP-II-Projects) repository.
